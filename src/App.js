@@ -1,7 +1,6 @@
-import VideoPlayer from './components/VideoPlayer'
-
+import BarChartTesting from './components/BarChart'
 import './App.css'
 
-const App = () => <VideoPlayer />
+const App = () => <BarChartTesting />
 
 export default App
